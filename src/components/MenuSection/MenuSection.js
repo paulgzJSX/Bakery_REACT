@@ -1,7 +1,6 @@
 import { ContainerFluid, Heading, Menu } from './MenuSection.styles'
 import { OldStyleHeader } from '../../styles/SharedComponents.styles'
-import MenuRow from './MenuRow/MenuRow'
-import ShopInfo from './ShopInfo/ShopInfo'
+import { MenuRow, ShopInfo } from '../../components'
 import { rowItems1, rowItems2 } from './MenuRow/MenuRowData'
 
 const MenuSection = () => {

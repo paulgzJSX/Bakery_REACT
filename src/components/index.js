@@ -1,5 +1,8 @@
 export { default as AboutSection } from './../components/AboutSection/AboutSection'
+export { default as NavBar } from './../components/Header/NavBar/NavBar'
 export { default as ChefsSection } from './../components/ChefsSection/ChefsSection'
 export { default as Footer } from './../components/Footer/Footer'
 export { default as Header } from './../components/Header/Header'
+export { default as MenuRow } from './../components/MenuSection/MenuRow/MenuRow'
 export { default as MenuSection } from './../components/MenuSection/MenuSection'
+export { default as ShopInfo } from './../components/MenuSection/ShopInfo/ShopInfo'

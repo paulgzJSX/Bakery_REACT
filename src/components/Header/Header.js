@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import NavBar from './NavBar/NavBar'
+import { NavBar } from '../../components'
 import { HeaderWrapper, HeroText, Button, HamburgerMenu } from './Header.styles'
 import { Container, OldStyleHeader } from '../../styles/SharedComponents.styles'
 import { HamburgerIcon, CrossIcon } from '../../styles/Icons.styles'

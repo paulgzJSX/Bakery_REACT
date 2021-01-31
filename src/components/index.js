@@ -1,0 +1,5 @@
+export { default as AboutSection } from './../components/AboutSection/AboutSection'
+export { default as ChefsSection } from './../components/ChefsSection/ChefsSection'
+export { default as Footer } from './../components/Footer/Footer'
+export { default as Header } from './../components/Header/Header'
+export { default as MenuSection } from './../components/MenuSection/MenuSection'
